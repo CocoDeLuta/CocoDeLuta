@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Mateus, a computer science student and also a game dev in training.
+Sometimes I post some of my games here, latel I'm veryy busy and I'm not having time to code them :(
+I'm also into ever area of coding, i'ts relaxing for me 
+
+- Star Wars fan 🌑
+- Cat lover 😻
+- Multi instrumentalist 🎼
+- Metal is for everyone 🤘
