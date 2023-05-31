@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Mateus, a computer science student and also a game dev in training.
-Sometimes I post some of my games here, latel I'm veryy busy and I'm not having time to code them :(
-I'm also into ever area of coding, i'ts relaxing for me 
+I'm Mateus, a 22yo computer science student and also a game dev in training.
+Sometimes I post some of my games here, lately I'm veryy busy and I'm not having time to code them :(
+I'm also into ever area of coding, i'ts relaxing for me. i love explore the world of software dev.
 
 - Star Wars fan 🌑
 - Cat lover 😻
