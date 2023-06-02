@@ -1,6 +1,10 @@
 ## Hello there 
 
-[Linkedin](https://www.linkedin.com/in/mateus-oliveira-0b0b3a1b1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusbiegermarques@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_b_marques/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mateusuetam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-bieger-marques-403459214/)
+
 
 I'm Mateus, a 22yo computer science student and also a game dev in training.
 Sometimes I post some of my games here, lately I'm veryy busy and I'm not having time to code them :(
