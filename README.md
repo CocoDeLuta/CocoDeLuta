@@ -7,7 +7,7 @@
 [![Itch.io](https://img.shields.io/badge/-Itch.io-%23FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cocodeluta.itch.io/)
 
 
-I'm Mateus, a 22yo computer science student at [UTFPR](http://www.utfpr.edu.br/) and also a game dev in training.
+I'm Mateus, a 25yo computer scientist, infrastructure analyst and also a game dev in training.
 Sometimes I post some of my games here, lately I'm veryy busy and I'm not having time to code them but i'm always trying to learn something new. &nbsp;
 I'm into ever area of coding, i'ts relaxing for me. i love explore the world of software development.
 
